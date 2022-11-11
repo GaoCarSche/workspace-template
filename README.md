@@ -9,7 +9,7 @@
 
 ## Prerequisites
 
-OS: Linux 7 or 8
+OS: Linux 8, CentOS 8.5
 
 ## How to
 The first step is to download bazelisk.
